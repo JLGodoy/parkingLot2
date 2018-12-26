@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ParkingLot</string>
+    <string name="loading">Loading...</string>
+    <string name="load">Load Complete</string>
+    <string name="logIn">Log In</string>
+    <string name="instructionsName">Introduce user Name</string>
+    <string name="password">Password</string>
+    <string name="logInButton">Log In</string>
+    <string name="account">New Account</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
